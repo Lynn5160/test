@@ -1,1 +1,1 @@
-bb is test file
+test file
