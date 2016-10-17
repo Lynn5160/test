@@ -1,6 +1,7 @@
 import os
 
 #### master branch
-
+#### change branch new1
 def branch_test():
-	pass
+	num =10
+	return num
